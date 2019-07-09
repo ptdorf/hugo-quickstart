@@ -1,0 +1,4 @@
+baseURL = "http://ptdorf.github.io/"
+languageCode = "en-us"
+title = "PTDORF"
+theme = "ananke"
